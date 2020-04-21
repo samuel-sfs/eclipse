@@ -7,8 +7,7 @@ import br.com.bytebank.banco.teste.*;
 
 public class TesteContas {
 	
-	java.lang.String
-	java.lang.System
+
 	
 	public static void main(String[] args) throws SaldoInsificienteException {
 		
