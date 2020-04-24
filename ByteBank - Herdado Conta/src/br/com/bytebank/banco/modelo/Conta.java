@@ -70,4 +70,9 @@ public abstract class Conta  {
 	public void setAgencia (int agencia) {
 		this.agencia = agencia;
 	}
+	
+	@Override
+	public String toString() {
+		return "Numero: " + this.getNumero() + this.agencia + this.saldo;
+	}
 }
